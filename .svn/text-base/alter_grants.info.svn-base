@@ -1,5 +1,0 @@
-name = Alter Grants
-description = Provides a hook for other modules to alter node access grants, helpful when resolving conflicts between node access modules. 
-package = Other
-version = VERSION
-core = 6.x
